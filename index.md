@@ -3,18 +3,26 @@ layout: default
 title: "Aaron Kermes Portfolio"
 ---
 
-# Welcome to My Cybersecurity Portfolio
+# Welcome to My Cybersecurity and Instructional Design Portfolio
 
-Explore my work in cybersecurity awareness, instructional design, and educational content creation. Below, you’ll find some of my featured projects that demonstrate my approach to making cybersecurity accessible and engaging.
+I’m Aaron Kermes, a creative instructional designer with over 11 years of experience in curriculum development, eLearning, and multimedia design. I specialize in transforming complex information into accessible, engaging learning experiences tailored to diverse audiences.
+
+## Key Areas of Expertise
+- **Instructional Design & Learning Content Creation**: Skilled in creating instructional materials and multimedia assets that drive engagement and learning outcomes.
+- **Cybersecurity & Automation**: Experience in process optimization and enhancing customer support through automation.
+- **Project Management**: Proficient in agile methodologies, managing cross-functional teams, and driving educational solutions from concept to completion.
+- **Technical Writing & Accessibility**: Adept at producing accessible content, including WCAG 2.2AA standards, and utilizing generative AI to enhance learning content.
 
 ## Featured Projects
+Below are selected projects that demonstrate my approach to instructional design and process automation:
+
 - **[Phishing Awareness Training Module](projects.md#phishing-awareness-training-module)**  
-  An interactive training module designed to educate users about phishing threats and response strategies.
-  
+  Developed an interactive module that educates users on identifying phishing attempts.
+
 - **[Social Engineering Awareness Campaign](projects.md#social-engineering-awareness-campaign)**  
-  A multimedia campaign created to raise awareness of social engineering tactics.
+  Designed a multimedia campaign focused on common social engineering tactics.
 
 - **[Cybersecurity Incident Response Training](projects.md#cybersecurity-incident-response-training)**  
-  A comprehensive training guide and module on effective incident response protocols.
+  Created a comprehensive guide on incident response protocols for enhanced team readiness.
 
-[Learn more about me](about.md) or [view all projects](projects.md).
+[Learn more about me](about.md) or [explore all projects](projects.md).
