@@ -19,9 +19,10 @@ I’m Aaron Kermes, a creative instructional designer with over 11 years of expe
 Below are selected projects that demonstrate my approach to instructional design and process automation. [View all projects here.](projects.md)
 
 ### Social Engineering Awareness Campaign
-Social engineering is the art of manipulating people to divulge sensitive information so it can be used to perform some malicious action. Despite security policies, attackers can compromise an organization’s sensitive information by using social engineering, which targets people’s weaknesses.
+Developed a targeted multimedia campaign to raise awareness of social engineering tactics, specifically phishing, for use in a graduate-level cybersecurity program. The campaign integrated interactive scenarios, video scripts, and storyboards to engage learners and reinforce best practices for information security.
 
-**Phishing** is a technique in which an attacker sends an email or provides a link falsely claiming to be from a legitimate site to acquire a user’s personal or account information. The attacker registers a fake domain name, builds a lookalike website, and then mails the fake website’s link to users. When a user clicks on the email link, it redirects them to the fake web page, where they are lured into sharing sensitive details, such as their username and password. [Explore the interactive scenario](https://lmscontent.embanet.com/Media/UND/CSCI587/CSCI587-w06-m02/)
+- **Outcome**: Received 95% positive feedback from graduate students, with many reporting heightened awareness and confidence in recognizing social engineering tactics.
+- **Interactive Scenario**: <a href="https://lmscontent.embanet.com/Media/UND/CSCI587/CSCI587-w06-m02/" target="_blank">Explore the phishing scenario</a>
 
 ---
 
