@@ -1,7 +1,7 @@
 # Basic site settings
 title: "Aaron Kermes Portfolio"
 description: "Cybersecurity and Instructional Design Portfolio of Aaron Kermes"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 markdown: kramdown
 
 # Site navigation links (optional)
