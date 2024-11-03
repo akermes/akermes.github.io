@@ -21,8 +21,12 @@ Below are selected projects that demonstrate my approach to instructional design
 - **[Phishing Awareness Training Module](projects.md#phishing-awareness-training-module)**  
   Developed an interactive module that educates users on identifying phishing attempts.
 
-- **[Social Engineering Awareness Campaign](projects.md#social-engineering-awareness-campaign)**  
-  Designed a multimedia campaign focused on common social engineering tactics.
+### Social Engineering Awareness Campaign
+**Description**: Designed a multimedia awareness campaign focused on educating employees about common social engineering tactics, such as pretexting and baiting. This campaign included video scripts, storyboards, and interactive media.
+
+- **Approach**: Created compelling scripts and storyboards for a series of short training videos, each highlighting different social engineering tactics and best practices for prevention.
+- **Outcome**: Received 95% positive feedback from participants, with many noting an increase in their awareness of social engineering tactics.
+- **Interactive Scenario**: [Explore Social Engineering Scenarios](https://lmscontent.embanet.com/Media/UND/CSCI587/CSCI587-w06-m02/)
 
 - **[Cybersecurity Incident Response Training](projects.md#cybersecurity-incident-response-training)**  
   Created a comprehensive guide on incident response protocols for enhanced team readiness.
