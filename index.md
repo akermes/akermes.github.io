@@ -5,7 +5,6 @@ title: "Aaron Kermes Portfolio"
 
 <div style="text-align: center;">
     <h1>Welcome to My Cybersecurity and Instructional Design Portfolio</h1>
-    <img src="profile_picture.jpeg" alt="Aaron Kermes" width="200" style="border-radius: 50%;">
 </div>
 
 I’m Aaron Kermes, a creative instructional designer with over 11 years of experience in curriculum development, eLearning, and multimedia design. I specialize in transforming complex information into accessible, engaging learning experiences tailored to diverse audiences.
