@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="css/style.css">
 ---
 layout: default
 title: Aaron Kermes Portfolio
