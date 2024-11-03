@@ -1,15 +1,14 @@
-
 ---
 layout: default
-title: Contact
+title: "Contact"
 ---
 
 # Contact Me
-I’m open to discussing cybersecurity projects, collaborations, or consulting opportunities. Feel free to reach out!
+
+I'm open to discussing new opportunities, collaborations, or consulting projects. Feel free to reach out!
 
 - **Email**: [akermes@outlook.com](mailto:akermes@outlook.com)
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [GitHub Portfolio](https://github.com/yourusername)
+- **GitHub**: [GitHub Profile](https://github.com/yourusername)
 
 [Back to Home](index.md)
-
