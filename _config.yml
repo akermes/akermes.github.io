@@ -1,10 +1,2 @@
-# Jekyll theme and markdown settings
 theme: jekyll-theme-minimal
 markdown: kramdown
-
-# Custom CSS file
-sass:
-  style: compressed
-
-# Set the base URL if you have a custom domain or subdirectory setup
-baseurl: ""
