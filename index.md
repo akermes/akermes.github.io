@@ -18,11 +18,11 @@ I’m Aaron Kermes, a creative instructional designer with over 11 years of expe
 ## Featured Projects
 Below are selected projects that demonstrate my approach to instructional design and process automation. [View all projects here.](projects.md)
 
-### Social Engineering Awareness Campaign
+### Social Engineering Awareness Campaign <a href="https://lmscontent.embanet.com/Media/UND/CSCI587/CSCI587-w06-m02/" target="_blank">Explore the phishing scenario</a>
 Developed a targeted multimedia campaign to raise awareness of social engineering tactics, specifically phishing, for use in a graduate-level cybersecurity program. The campaign integrated interactive scenarios, video scripts, and storyboards to engage learners and reinforce best practices for information security.
 
 - **Outcome**: Received 95% positive feedback from graduate students, with many reporting heightened awareness and confidence in recognizing social engineering tactics.
-- **Interactive Scenario**: <a href="https://lmscontent.embanet.com/Media/UND/CSCI587/CSCI587-w06-m02/" target="_blank">Explore the phishing scenario</a>
+- **Interactive Scenario**: 
 
 ---
 
