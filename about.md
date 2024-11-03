@@ -1,17 +1,15 @@
-
 ---
 layout: default
-title: About Aaron Kermes
+title: "About Aaron Kermes"
 ---
 
 # About Me
-With over 11 years in instructional design, I’ve focused on cybersecurity education to make security awareness accessible, impactful, and actionable. I’m experienced in crafting technical scripts, multimedia learning materials, and digital training solutions for both corporate and educational environments.
+
+With over 11 years of experience in instructional design, I specialize in developing engaging cybersecurity training and educational content. My goal is to make complex cybersecurity topics accessible and impactful, empowering individuals and organizations to stay secure.
 
 ## Expertise
-- **Cybersecurity Awareness Training**: Specializing in phishing, social engineering, and threat detection modules.
-- **Content Creation**: Technical writing, script development, and multimedia content tailored for cybersecurity.
-- **Instructional Design Models**: ADDIE, SAM, and Action Mapping to create measurable, outcome-driven learning experiences.
-- **Technical Skills**: Familiar with security standards, cybersecurity frameworks (NIST, ISO), and accessibility guidelines (WCAG).
+- **Cybersecurity Awareness Training**: Specializing in phishing, social engineering, and incident response.
+- **Instructional Design**: Experienced in ADDIE, SAM, and Action Mapping methodologies.
+- **Technical Writing & Multimedia Content Creation**: Skilled in transforming complex information into understandable, engaging formats.
 
-[Back to Home](index.md)
-
+[Back to Home](index.md) | [View My Projects](projects.md)
