@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css">
+
 ---
 layout: default
 title: About Aaron Kermes
