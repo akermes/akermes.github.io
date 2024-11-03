@@ -3,7 +3,6 @@ layout: default
 title: "About Aaron Kermes"
 ---
 
-# About Me
 <div style="text-align: center;">
     <h1>About Me</h1>
     <img src="profile_picture.jpeg" alt="Aaron Kermes" width="200" style="border-radius: 50%;">
