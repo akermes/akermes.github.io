@@ -4,7 +4,10 @@ title: "About Aaron Kermes"
 ---
 
 # About Me
-
+<div style="text-align: center;">
+    <h1>About Me</h1>
+    <img src="profile_picture.jpeg" alt="Aaron Kermes" width="200" style="border-radius: 50%;">
+</div>
 With a Master’s of Education in Learning Design and Technologies and over 11 years in instructional design, I bring a depth of experience in developing engaging, educational content. My work emphasizes accessibility, storytelling, and multimedia to make complex information both understandable and memorable.
 
 ## Education
