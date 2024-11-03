@@ -16,19 +16,13 @@ I’m Aaron Kermes, a creative instructional designer with over 11 years of expe
 - **Technical Writing & Accessibility**: Adept at producing accessible content, including WCAG 2.2AA standards, and utilizing generative AI to enhance learning content.
 
 ## Featured Projects
-Below are selected projects that demonstrate my approach to instructional design and process automation:
-
-- **[Phishing Awareness Training Module](projects.md#phishing-awareness-training-module)**  
-  Developed an interactive module that educates users on identifying phishing attempts.
+Below are selected projects that demonstrate my approach to instructional design and process automation. [View all projects here.](projects.md)
 
 ### Social Engineering Awareness Campaign
-**Description**: Designed a multimedia awareness campaign focused on educating employees about common social engineering tactics, such as pretexting and baiting. This campaign included video scripts, storyboards, and interactive media.
+Social engineering is the art of manipulating people to divulge sensitive information so it can be used to perform some malicious action. Despite security policies, attackers can compromise an organization’s sensitive information by using social engineering, which targets people’s weaknesses.
 
-- **Approach**: Created compelling scripts and storyboards for a series of short training videos, each highlighting different social engineering tactics and best practices for prevention.
-- **Outcome**: Received 95% positive feedback from participants, with many noting an increase in their awareness of social engineering tactics.
-- **Interactive Scenario**: [Explore Social Engineering Scenarios](https://lmscontent.embanet.com/Media/UND/CSCI587/CSCI587-w06-m02/)
+**Phishing** is a technique in which an attacker sends an email or provides a link falsely claiming to be from a legitimate site to acquire a user’s personal or account information. The attacker registers a fake domain name, builds a lookalike website, and then mails the fake website’s link to users. When a user clicks on the email link, it redirects them to the fake web page, where they are lured into sharing sensitive details, such as their username and password. [Explore the interactive scenario](https://lmscontent.embanet.com/Media/UND/CSCI587/CSCI587-w06-m02/)
 
-- **[Cybersecurity Incident Response Training](projects.md#cybersecurity-incident-response-training)**  
-  Created a comprehensive guide on incident response protocols for enhanced team readiness.
+---
 
-[Learn more about me](about.md) or [explore all projects](projects.md).
+[Learn more about me](about.md) or [explore all projects](projects.md) in detail.
