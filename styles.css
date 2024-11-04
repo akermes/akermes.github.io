@@ -23,7 +23,7 @@ p, li {
 
 /* Profile Picture Styling */
 .profile-picture {
-    width: 180px; /* Increased size for better visibility */
+    width: 250px; /* Increased size for better visibility */
     border-radius: 50%;
     border: 3px solid #1e90ff; /* Accessible link color used for border */
     margin-bottom: 15px;
