@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 # Projects
 
 Explore some of my recent work in instructional design, developed for graduate-level courses in Cybersecurity (Master of Science in Cyber Security) and Nursing (Master of Science in Nursing) programs. These projects demonstrate my ability to create engaging, scenario-based learning experiences in highly specialized fields.
