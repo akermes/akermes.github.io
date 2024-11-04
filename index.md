@@ -4,7 +4,9 @@
 <img src="profile_picture.jpeg" alt="Profile picture of Aaron Kermes, instructional designer" class="profile-picture">
 
 ## Welcome to My Portfolio
+I'm Aaron Kermes, an instructional designer specializing in creating effective, scenario-based learning experiences for complex fields like cybersecurity. My work focuses on translating technical information into engaging, memorable content that learners can immediately apply.
 
+My goal is to align closely with Huntress's mission to protect small and midsize businesses by creating accessible, actionable security training.
 ## Learn More About Me and Explore My Work
 
 - **[About Me](about.html)**: Learn more about my background, skills, and expertise in instructional design.
