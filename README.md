@@ -1,11 +1,11 @@
-# Aaron Kermes Cybersecurity and Instructional Design Portfolio
+# Aaron Kermes - Instructional Design Portfolio
 
-Welcome to my portfolio repository! This site showcases my work in cybersecurity awareness, instructional design, and multimedia content creation.
+Welcome to my portfolio! Here, you'll find a collection of my work in instructional design, including cybersecurity training modules, scenario-based learning content, and interactive job aids.
 
-This portfolio includes the following sections:
-- [Home](index.md) – Overview and featured projects.
-- [About](about.md) – A bit about me and my expertise.
-- [Projects](projects.md) – Detailed descriptions of my cybersecurity and instructional design projects.
-- [Contact](contact.md) – Information on how to reach me.
+### Quick Links
+- [Home](https://akermes.github.io/)
+- [About Me](https://akermes.github.io/about.html)
+- [Projects](https://akermes.github.io/projects.html)
+- [Contact](https://akermes.github.io/contact.html)
 
-Feel free to browse through each section to learn more about my experience and skillset.
+I specialize in creating engaging, educational content that simplifies complex topics for learners. Explore my portfolio to see examples of my work and learn more about my approach to instructional design.
