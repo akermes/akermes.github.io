@@ -1,7 +1,5 @@
 # About Me
 
-![Aaron Kermes](profile_picture.jpeg)
-
 Hello! I’m Aaron Kermes, a dedicated instructional designer with over 11 years of experience creating impactful learning experiences across various domains, including cybersecurity and healthcare. I specialize in translating complex information into approachable, engaging narratives that resonate with learners at all levels.
 
 My work focuses on creating educational content that promotes knowledge retention and real-world application. I’m passionate about using storytelling and scenario-based learning to enhance the learning experience, especially in technical fields like cybersecurity and healthcare.
