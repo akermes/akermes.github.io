@@ -1,4 +1,4 @@
-/* General Page Setup with Background Pattern */
+/* General Page Setup with Enhanced Background Pattern */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -7,9 +7,9 @@ body {
     padding: 20px;
     background-color: #121212;
     background-image: 
-        linear-gradient(to right, #1a1a1a 1px, transparent 1px), 
-        linear-gradient(to bottom, #1a1a1a 1px, transparent 1px);
-    background-size: 50px 50px; /* Creates a faint grid pattern */
+        linear-gradient(to right, rgba(255, 255, 255, 0.05) 1px, transparent 1px), 
+        linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+    background-size: 40px 40px; /* Smaller grid for a more visible effect */
 }
 
 /* Header and Text Colors */
