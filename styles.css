@@ -22,7 +22,7 @@ p, li {
 .profile-picture {
     width: 150px;
     border-radius: 50%;
-    border: 3px solid #03dac6;
+    border: 3px solid #ffd700; /* Adjusted border color for accessibility */
     margin-bottom: 15px;
 }
 
@@ -37,22 +37,23 @@ nav {
 
 nav a {
     font-weight: bold;
-    color: #03dac6;
+    color: #ffd700; /* Updated link color to accessible yellow */
     transition: color 0.3s ease;
 }
 
 nav a:hover {
-    color: #1f8ef1;
+    color: #ffb700; /* Slightly darker yellow for hover effect */
 }
 
-/* Hover Animations */
-a, .button {
-    transition: color 0.3s ease, background-color 0.3s ease;
+/* Link Colors */
+a {
+    color: #ffd700; /* Updated link color for general links */
+    text-decoration: none;
+    font-weight: bold;
 }
 
-a:hover, .button:hover {
-    color: #fff;
-    background-color: #1f8ef1;
+a:hover {
+    color: #ffb700; /* Hover color for links */
 }
 
 /* Project Cards */
@@ -74,7 +75,7 @@ a:hover, .button:hover {
 }
 
 .project-card a {
-    color: #03dac6;
+    color: #ffd700; /* Accessible link color within project cards */
     text-decoration: underline;
     font-weight: bold;
 }
@@ -90,12 +91,12 @@ footer {
 }
 
 footer a {
-    color: #03dac6;
+    color: #ffd700; /* Accessible link color in footer */
     margin: 0 10px;
 }
 
 footer a:hover {
-    color: #1f8ef1;
+    color: #ffb700;
 }
 
 /* Accessibility Focus Styles */
