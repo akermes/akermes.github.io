@@ -1,14 +1,28 @@
-# Aaron Kermes - Instructional Design Portfolio
-<div style="text-align: center;">
-    <img src="profile_picture.jpeg" alt="Aaron Kermes" width="200" style="border-radius: 50%;">
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aaron Kermes - Instructional Design Portfolio</title>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a> | 
+        <a href="about.html">About Me</a> | 
+        <a href="projects.html">Projects</a> | 
+        <a href="contact.html">Contact</a>
+    </nav>
 
-Welcome to my portfolio! Here, you'll find a collection of my work in instructional design, including cybersecurity training modules, scenario-based learning content, and interactive job aids.
+    <h1>Welcome to My Instructional Design Portfolio</h1>
+    <img src="https://akermes.github.io/portfolio/profile_picture.jpeg" alt="Aaron Kermes" style="width:150px; border-radius:50%;">
 
-### Quick Links
-- [Home](https://akermes.github.io/)
-- [About Me](https://akermes.github.io/about.html)
-- [Projects](https://akermes.github.io/projects.html)
-- [Contact](https://akermes.github.io/contact.html)
+    <p>Hi, I'm Aaron Kermes, a creative instructional designer with over 11 years of experience in developing engaging, accessible learning content. Explore my portfolio to learn more about my work, skills, and approach.</p>
 
-I specialize in creating engaging, educational content that simplifies complex topics for learners. Explore my portfolio to see examples of my work and learn more about my approach to instructional design.
+    <h2>Explore</h2>
+    <ul>
+        <li><a href="about.html">About Me</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+</body>
+</html>
