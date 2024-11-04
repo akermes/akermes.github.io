@@ -1,0 +1,154 @@
+/* General Page Setup */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #e8e8e8;
+    margin: 0;
+    padding: 20px;
+    background-color: #121212; /* Dark theme background */
+}
+
+h1, h2, h3 {
+    color: #1f8ef1; /* Professional, cybersecurity-blue tone */
+}
+
+a {
+    color: #03dac6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Navigation Bar */
+nav {
+    display: flex;
+    gap: 20px;
+    padding: 10px 0;
+    border-bottom: 2px solid #1f8ef1;
+    margin-bottom: 20px;
+}
+
+nav a {
+    font-weight: bold;
+    color: #03dac6;
+}
+
+nav a:hover {
+    color: #1f8ef1;
+}
+
+/* Profile Image Styling */
+img {
+    border-radius: 50%;
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+    border: 3px solid #03dac6;
+}
+
+/* Lists */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Footer Link */
+.footer-link {
+    display: block;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #03dac6;
+}
+
+.footer-link:hover {
+    color: #1f8ef1;
+    text-decoration: underline;
+}
+
+/* Section Styling */
+section {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #1e1e1e;
+    border-left: 4px solid #1f8ef1;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 2.2em;
+    border-bottom: 2px solid #1f8ef1;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+h2, h3 {
+    font-size: 1.6em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Button Styling */
+button, .button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    color: #121212;
+    background-color: #03dac6;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover, .button:hover {
+    background-color: #1f8ef1;
+    color: #fff;
+}
+
+/* Accessibility: Focus Outlines */
+a:focus, button:focus, .button:focus {
+    outline: 3px solid #e8e8e8;
+    outline-offset: 2px;
+}
+
+/* Accessibility: High Contrast Text */
+h1, h2, h3, p, li {
+    color: #e8e8e8; /* Light text for high contrast on dark background */
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+/* Additional Media Query for Mobile Responsiveness */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    nav {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    h1 {
+        font-size: 1.8em;
+    }
+
+    h2, h3 {
+        font-size: 1.4em;
+    }
+}
