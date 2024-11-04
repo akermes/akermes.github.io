@@ -90,8 +90,8 @@ nav a:hover {
 
 /* Footer Styling */
 footer {
-    background-color: #0d0d0d; /* Darker background for the footer bar */
-    padding: 20px 0; /* Increase padding for a taller footer */
+    background-color: #0b0b0b; /* Distinct, darker background for the footer bar */
+    padding: 30px 0; /* Increase padding for a taller footer */
     text-align: center;
     color: #e8e8e8;
     border-top: 4px solid #1e90ff; /* Accent border to separate the footer from the main content */
