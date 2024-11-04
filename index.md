@@ -20,4 +20,3 @@ Thank you for visiting my portfolio. Feel free to explore and reach out if youâ€
 
 ---
 
-[View My LinkedIn Profile](https://linkedin.com/in/aaron-kermes)
