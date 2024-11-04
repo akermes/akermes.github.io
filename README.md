@@ -1,6 +1,6 @@
 # Aaron Kermes - Instructional Design Portfolio
 
-![Aaron Kermes](https://akermes.github.io/portfolio/profile_picture.jpeg)
+ <img src="profile_picture.jpeg" alt="Aaron Kermes" width="200" style="border-radius: 50%;">
 
 Welcome to my portfolio! Here, you'll find a collection of my work in instructional design, including cybersecurity training modules, scenario-based learning content, and interactive job aids.
 
