@@ -1,24 +1,32 @@
----
-layout: default
-title: "About Aaron Kermes"
----
+# About Me
 
-<div style="text-align: center;">
-    <h1>About Me</h1>
-    <img src="profile_picture.jpeg" alt="Aaron Kermes" width="200" style="border-radius: 50%;">
-</div>
-With a Master’s of Education in Learning Design and Technologies and over 11 years in instructional design, I bring a depth of experience in developing engaging, educational content. My work emphasizes accessibility, storytelling, and multimedia to make complex information both understandable and memorable.
+![Aaron Kermes](profile_picture.jpeg)
+
+Hello! I’m Aaron Kermes, a dedicated instructional designer with over 11 years of experience creating impactful learning experiences across various domains, including cybersecurity and healthcare. I specialize in translating complex information into approachable, engaging narratives that resonate with learners at all levels.
+
+My work focuses on creating educational content that promotes knowledge retention and real-world application. I’m passionate about using storytelling and scenario-based learning to enhance the learning experience, especially in technical fields like cybersecurity and healthcare.
+
+## Storytelling & Scriptwriting Expertise
+With a strong foundation in storytelling and instructional design, I excel in transforming technical information into engaging, memorable narratives. My experience includes crafting scripts for animated e-learning videos and scenario-based modules that resonate with learners and enhance knowledge retention.
+
+## Accessibility & Educational Psychology
+I am committed to creating inclusive learning experiences, with a strong understanding of WCAG 2.2AA accessibility standards. Additionally, my background in educational psychology helps me design content that is not only accessible but also tailored to enhance engagement and retention for diverse learners.
 
 ## Education
-- **Master of Education** in Learning Design and Technologies  
-  Arizona State University, Tempe, AZ - May 2020
-- **Bachelor of Arts** in Secondary Education (English)  
-  Arizona State University, Tempe, AZ - May 2012
+- **Master of Education**: Learning Design and Technologies, Arizona State University
+- **Bachelor of Arts in Secondary Education (English)**, Arizona State University
 
-## Skills and Expertise
-- **Instructional Design Models**: Experienced with ADDIE, SAM, Action Mapping, and MPI frameworks.
-- **Technical Writing & Content Development**: Skilled in translating complex topics for various learning styles, with a strong foundation in educational psychology.
-- **Automation & Agile Project Management**: Proven track record of implementing automation in customer support processes and leading cross-functional teams as a SCRUM Master.
-- **Tools & Technologies**: Microsoft and Adobe Suites, various LMS platforms, Articulate Rise, Adobe Captivate, HTML, and generative AI for content creation.
+## Skills & Expertise
+- Learning Content Writing & Script Development
+- Storytelling & Engagement Strategies
+- Scriptwriting for eLearning and Multimedia
+- Cybersecurity Awareness Training
+- Accessibility Standards (WCAG 2.2AA)
+- Collaborative, Iterative Development: Experienced in refining scripts and content based on feedback from stakeholders and subject matter experts, ensuring accuracy and clarity
+- Brand Voice and Tone Consistency: Skilled in establishing and adhering to brand voice guidelines, ensuring that all learning content is both cohesive and engaging
+- Agile Project Management
+- Generative AI for Content Creation
+- Instructional Design Models (Action Mapping, ADDIE, SAM)
+- Learning Outcomes Assessment: Experienced in evaluating learner success and adjusting content based on measurable outcomes to maximize impact and retention
 
-Visit my **[Projects](projects.md)** page for detailed examples of my work, or return to the **[Home](index.md)** page for an overview.
+[Back to Home](index.html)
