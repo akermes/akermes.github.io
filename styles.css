@@ -11,7 +11,7 @@ body {
 
 /* Header and Text Colors */
 h1, h2, h3 {
-    color: #1f8ef1;
+    color: #00ffff; /* Cyan for headings */
 }
 
 p, li {
@@ -31,13 +31,13 @@ nav {
     display: flex;
     gap: 20px;
     padding: 10px 0;
-    border-bottom: 2px solid #1f8ef1;
+    border-bottom: 2px solid #00ffff; /* Cyan to match heading color */
     margin-bottom: 20px;
 }
 
 nav a {
     font-weight: bold;
-    color: #1e90ff; /* Accessible Dodger Blue link color */
+    color: #1e90ff; /* Dodger Blue for accessible link color */
     transition: color 0.3s ease;
 }
 
@@ -48,13 +48,13 @@ nav a:hover {
 
 /* Link Colors */
 a {
-    color: #1e90ff; /* Accessible Dodger Blue for general links */
+    color: #1e90ff; /* Dodger Blue for general links */
     text-decoration: none;
     font-weight: bold;
 }
 
 a:hover {
-    color: #1c7ed6; /* Darker blue on hover for subtle change */
+    color: #1c7ed6; /* Darker blue on hover */
     text-decoration: underline;
 }
 
@@ -73,11 +73,11 @@ a:hover {
 }
 
 .project-card h3 {
-    color: #1f8ef1;
+    color: #00ffff; /* Cyan for project card headings */
 }
 
 .project-card a {
-    color: #1e90ff; /* Accessible Dodger Blue within project cards */
+    color: #1e90ff; /* Dodger Blue for links within project cards */
     text-decoration: underline;
     font-weight: bold;
 }
@@ -93,11 +93,11 @@ footer {
     text-align: center;
     color: #e8e8e8;
     margin-top: 40px;
-    border-top: 2px solid #1f8ef1;
+    border-top: 2px solid #00ffff;
 }
 
 footer a {
-    color: #1e90ff; /* Accessible Dodger Blue in footer */
+    color: #1e90ff; /* Dodger Blue in footer */
     margin: 0 10px;
 }
 
@@ -132,4 +132,3 @@ a:focus, button:focus, .button:focus {
         font-size: 1.4em;
     }
 }
-
