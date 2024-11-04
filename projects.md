@@ -5,6 +5,9 @@ Explore some of my recent work in instructional design, developed for graduate-l
 ## Cybersecurity Training Modules
 *These modules were created for the Master of Science in Cyber Security program at University of North Dakota.*
 
+### <a href="https://lmscontent.embanet.com/Media/UND/CSCI587/CSCI587-w03-m01/" target="_blank">Nmap Scanning Tree</a>
+A detailed overview of Nmap scanning techniques and their applications in vulnerability assessment.
+
 ### <a href="https://lmscontent.embanet.com/Media/UND/CSCI587/CSCI587-w06-m02/" target="_blank">Social Engineering Scenarios</a>
 An interactive module that introduces learners to real-life social engineering attacks and how to recognize them.
 
@@ -13,9 +16,6 @@ This module covers the different types of hackers and threat intelligence used i
 
 ### <a href="https://lmscontent.embanet.com/Media/UND/CSCI587/CSCI587-w02-m01/" target="_blank">Information Gathering Tools and Techniques</a>
 Learn about the tools and techniques used in information gathering during the cybersecurity process.
-
-### <a href="https://lmscontent.embanet.com/Media/UND/CSCI587/CSCI587-w03-m01/" target="_blank">Nmap Scanning Tree</a>
-A detailed overview of Nmap scanning techniques and their applications in vulnerability assessment.
 
 ### <a href="https://lmscontent.embanet.com/Media/UND/CSCI587/CSCI587-w04-m01/" target="_blank">Types of Scanning and Vulnerability Assessment</a>
 This module explains various scanning types and how vulnerability assessments are conducted.
