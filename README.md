@@ -2,7 +2,7 @@
 
  <img src="profile_picture.jpeg" alt="Aaron Kermes" width="200" style="border-radius: 50%;">
 
-Welcome to my portfolio! Here, you'll find a collection of my work in instructional design, including cybersecurity training modules, scenario-based learning content, and interactive job aids.
+Welcome to my portfolio! Here, you'll find a collection of my work in instructional design, including graduate level course work in cybersecurity and nursing. These projects include examples of case studies and scenario-based learning content that I have developed for various universities.
 
 ### Quick Links
 - [Home](https://akermes.github.io/)
