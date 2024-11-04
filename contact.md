@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 # Contact Me
 
 If you're interested in collaborating or learning more about my work, feel free to reach out!
