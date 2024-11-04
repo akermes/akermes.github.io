@@ -47,13 +47,13 @@ nav a:hover {
 
 /* Link Colors */
 a {
-    color: #ffd700; /* Updated link color for general links */
+    color: #1e90ff; /* Updated link color for general links */
     text-decoration: none;
     font-weight: bold;
 }
 
 a:hover {
-    color: #ffb700; /* Hover color for links */
+    color: #1e90ff; /* Hover color for links */
 }
 
 /* Project Cards */
@@ -75,7 +75,7 @@ a:hover {
 }
 
 .project-card a {
-    color: #ffd700; /* Accessible link color within project cards */
+    color: #1e90ff; /* Accessible link color within project cards */
     text-decoration: underline;
     font-weight: bold;
 }
@@ -91,12 +91,12 @@ footer {
 }
 
 footer a {
-    color: #ffd700; /* Accessible link color in footer */
+    color: #1e90ff; /* Accessible link color in footer */
     margin: 0 10px;
 }
 
 footer a:hover {
-    color: #ffb700;
+    color: #1e90ff;
 }
 
 /* Accessibility Focus Styles */
