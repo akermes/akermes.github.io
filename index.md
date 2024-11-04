@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 # Aaron Kermes - Instructional Design Portfolio
 
 <img src="profile_picture.jpeg" alt="Profile picture of Aaron Kermes, instructional designer" class="profile-picture">
