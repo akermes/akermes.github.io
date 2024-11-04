@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./styles.css">
+
 # Aaron Kermes - Instructional Design Portfolio
 
 <img src="profile_picture.jpeg" alt="Profile picture of Aaron Kermes, instructional designer" style="width:150px; border-radius:50%; border:3px solid #03dac6; margin-bottom:15px;">
