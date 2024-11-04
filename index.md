@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 # Aaron Kermes - Instructional Design Portfolio
 
 Welcome to my portfolio! I’m Aaron Kermes, an experienced instructional designer specializing in creating impactful and engaging learning experiences. My work spans across cybersecurity, healthcare, and educational content development, focusing on storytelling and scenario-based learning to enhance knowledge retention and real-world application.
