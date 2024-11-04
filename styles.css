@@ -1,4 +1,4 @@
-/* General Page Setup */
+/* General Page Setup with Background Pattern */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -6,7 +6,10 @@ body {
     margin: 0;
     padding: 20px;
     background-color: #121212;
-    background-image: linear-gradient(135deg, #121212 25%, #1a1a1a 75%);
+    background-image: 
+        linear-gradient(to right, #1a1a1a 1px, transparent 1px), 
+        linear-gradient(to bottom, #1a1a1a 1px, transparent 1px);
+    background-size: 50px 50px; /* Creates a faint grid pattern */
 }
 
 /* Header and Text Colors */
@@ -26,109 +29,14 @@ p, li {
     margin-bottom: 15px;
 }
 
-/* Navigation Bar */
-nav {
-    display: flex;
-    gap: 20px;
-    padding: 10px 0;
-    border-bottom: 2px solid #00ffff; /* Cyan to match heading color */
-    margin-bottom: 20px;
-}
-
-nav a {
-    font-weight: bold;
-    color: #1e90ff; /* Dodger Blue for accessible link color */
-    transition: color 0.3s ease;
-}
-
-nav a:hover {
-    color: #1c7ed6; /* Slightly darker blue for hover effect */
-    text-decoration: underline;
-}
-
 /* Link Colors */
 a {
-    color: #1e90ff; /* Dodger Blue for general links */
+    color: #1e90ff; /* Accessible Dodger Blue for links */
     text-decoration: none;
     font-weight: bold;
 }
 
 a:hover {
-    color: #1c7ed6; /* Darker blue on hover */
+    color: #1c7ed6; /* Slightly darker blue for hover effect */
     text-decoration: underline;
-}
-
-/* Project Cards */
-.project-card {
-    background-color: #1e1e1e;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-    margin-bottom: 20px;
-    transition: transform 0.3s ease;
-}
-
-.project-card:hover {
-    transform: translateY(-5px);
-}
-
-.project-card h3 {
-    color: #00ffff; /* Cyan for project card headings */
-}
-
-.project-card a {
-    color: #1e90ff; /* Dodger Blue for links within project cards */
-    text-decoration: underline;
-    font-weight: bold;
-}
-
-.project-card a:hover {
-    color: #1c7ed6;
-}
-
-/* Footer Styling */
-footer {
-    background-color: #1a1a1a;
-    padding: 20px;
-    text-align: center;
-    color: #e8e8e8;
-    margin-top: 40px;
-    border-top: 2px solid #00ffff;
-}
-
-footer a {
-    color: #1e90ff; /* Dodger Blue in footer */
-    margin: 0 10px;
-}
-
-footer a:hover {
-    color: #1c7ed6;
-    text-decoration: underline;
-}
-
-/* Accessibility Focus Styles */
-a:focus, button:focus, .button:focus {
-    outline: 3px solid #e8e8e8;
-    outline-offset: 2px;
-}
-
-/* Responsive Design for Mobile */
-@media (max-width: 768px) {
-    body {
-        padding: 10px;
-    }
-
-    nav {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 10px;
-    }
-
-    h1 {
-        font-size: 1.8em;
-    }
-
-    h2, h3 {
-        font-size: 1.4em;
-    }
 }
