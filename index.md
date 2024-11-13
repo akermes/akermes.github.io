@@ -4,7 +4,7 @@
 <img src="profile_picture.jpeg" alt="Profile picture of Aaron Kermes, instructional designer" class="profile-picture">
 
 ## Welcome to My Portfolio
-I'm Aaron Kermes, an instructional designer specializing in creating effective, scenario-based learning experiences for complex fields like cybersecurity. My work focuses on translating technical information into engaging, memorable content that learners can immediately apply.
+I'm Aaron Kermes, an instructional designer specializing in creating effective, scenario-based learning experiences for complex fields like cybersecurity, healthcare, and social work. My work focuses on translating technical information into engaging, memorable content that learners can immediately apply.
 
 ## Learn More About Me and Explore My Work
 
